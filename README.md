@@ -3,7 +3,7 @@ ADHDBlogCMS is an AI-powered, user-friendly, and intuitive content management sy
 
 NOT READY !!! Current stage: Project init, everyone is invited to help :)
 
-Features:
+Features planned:
 
 - Customizable workspace environments: ADHDBlogCMS allows users to choose between various pre-configured workspace environments, ranging from highly       stimulating with for example background music, animations, and visual aids to minimalist and distraction-free settings. This enables individuals with different ADHD subtypes to work in a space that caters to their unique needs.
 
@@ -31,5 +31,9 @@ Features:
 
 - Integrated analytics: The CMS includes built-in analytics tools that provide insights into content performance, user engagement, and other key metrics, enabling users to make data-driven decisions about their blog.
 
+- Integrated E-Commerce functionalities like integrated shop and payment options using PayPal and Stripe
+
 By combining these features, ADHDBlogCMS offers a comprehensive and tailored solution for individuals with ADHD who want to create and manage their online content with ease, while enjoying a personalized workspace that adapts to their unique ADHD subtype.
 
+
+Its planned that the application is highly scalable and speed optimized by using good caching technolgies by also lerveraging MySQL, NoSQL and Redis in a highly performant way.
